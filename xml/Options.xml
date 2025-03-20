@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<options>
+    <option ID="OptionLaurusHarmonyLoggingBPSC" DisplayText="Logging: Blueprint Scroller Controller" Category="LaurusMods-Harmony" Type="Checkbox" Default="Yes">
+        <helptext>
+        If disabled, no logs from any Laurus mod will be available in player.log on the in game messagebox.
+        </helptext>
+    </option>
+    <option ID="OptionLaurusHarmonyLoggingRender" DisplayText="Logging: Render (Part)" Category="LaurusMods-Harmony" Type="Checkbox" Default="Yes">
+        <helptext>
+        If disabled, no logs from any Laurus mod will be available in player.log on the in game messagebox.
+        </helptext>
+    </option>
+</options>
